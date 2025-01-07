@@ -37,7 +37,7 @@ Error generating stack: `+n.message+`
 <meta property="og:url" content="https://bodaciousgames.co/">
 <meta property="og:title" content="Bodacious Games Studios">
 <meta property="og:description" content="Creating games that are like putting awesome sauce on an epic plate of bodaciousness. ">
-<meta property="og:image" content="https://metatags.io/images/meta-tags.png">
+<meta property="og:image" content="https://bodaciousgames.co/assets/Bodacious_Games_Logo_hJmAG-lPxXjwIDMrroVSq.png">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
